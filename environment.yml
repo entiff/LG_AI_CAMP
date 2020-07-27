@@ -1,4 +1,4 @@
-name: LM
+name: seq2seq
 channels:
   - anaconda
   - pytorch
