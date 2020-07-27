@@ -1,0 +1,2 @@
+# LG_AI_CAMP
+LG AI CAMP Repo for 200728
